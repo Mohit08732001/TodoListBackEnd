@@ -1,0 +1,15 @@
+{
+  "name": "major-project1",
+  "version": "1.0.0",
+  "description": "TodoList Using BackEnd",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
